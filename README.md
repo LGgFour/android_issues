@@ -1,3 +1,3 @@
-# issues_a10
+# android issue tracker
 
-no code here. just issues.. --> https://github.com/Suicide-Squirrel/issues_a10/issues
+no code here. just issues.. Check this out --> https://github.com/LGgFour/android_issues/issues
